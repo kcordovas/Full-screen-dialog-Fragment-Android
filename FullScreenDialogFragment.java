@@ -10,6 +10,8 @@ import androidx.fragment.app.FragmentManager;
  * A simple {@link Fragment} subclass.
  */
 public class FullScreenDialogFragment extends DialogFragment {
+	
+	int holaGit = 1;
 
     public FullScreenDialogFragment() {
         // Required empty public constructor
